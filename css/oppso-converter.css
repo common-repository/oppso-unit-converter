@@ -1,0 +1,45 @@
+#oppso-converter-box{	
+	border:1px solid #d4d4d4;
+	padding:5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+#oppso-converter-box .oppso-converter-description{
+	font-size:11px;
+	font-style:italic;
+}
+#oppso-converter-box  table.oppso-form-table{
+	width: 100%;
+	border-spacing: 5px;
+	border-collapse: separate !important;
+}
+#oppso-converter-box .oppso-converter-form{
+	margin-top:10px;
+}
+#oppso-converter-box .oppso-select{
+	width:98%;
+	padding:3px;
+}
+#oppso-converter-box .oppso-input{
+	width:98%;
+	padding:2px;
+}
+#oppso-converter-box .oppso-convert-result{
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	border:1px solid #d4d4d4;
+	color:#000;
+	margin-top:10px;
+	padding:5px;
+	display:none;
+	
+}
+#converter-selection{
+	
+	padding-bottom:5px;
+	padding-top:5px;
+	width:100%;
+	margin:0px auto;
+}
